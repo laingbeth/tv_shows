@@ -1,0 +1,20 @@
+
+INSERT INTO shows (name, genre, rating, airing) VALUES
+  ('Battlestar Galactica', 'SciFi', 88, false),
+  ('Game of Thrones', 'SciFi', 95, true),
+  ('Lost', 'SciFi', 85, false),
+  ('Hannibal', 'SciFi', 86, true),
+  ('Wonderfalls', 'SciFi', 84, false),
+  ('The X-Files', 'SciFi', 88, false),
+  ('Pretty Little Liars', 'Drama', 79, false),
+  ('Awkward', 'Drama', 76, false),
+  ('Glee', 'Drama', 68, false),
+  ('Buffy the Vampire Slayer', 'SciFi', 95, false),
+  ('Modern Family', 'Drama', 88, true),
+  ('Veronica Mars', 'Drama', 95, false),
+  ('Victorious', 'Drama', 68, false),
+  ('The Big Bang Theory', 'Comedy', 95, false) ,
+  ('Parks and Recreation', 'Comedy', 94, false),
+  ('The Simpsons', 'Comedy', 96, true),
+  ('Family Guy', 'Comedy', 92, true),
+  ('Freaks and Geeks', 'Comedy', 94, false);
